@@ -81,12 +81,11 @@ This dashboard supports data-driven decision making for:
 ## 📸 Dashboard Preview
 
 **Loan Report — Details View**  
-![Loan Report Details](bankserver\ 1.png)
+![Loan Report Details](https://raw.githubusercontent.com/Adarsh6055/Bank-loan-Analysis-/main/bankserver%201.png)
 
 **Loan Report — Summary View**  
-![Loan Report Summary](bankserver\ 2.png)
+![Loan Report Summary](https://raw.githubusercontent.com/Adarsh6055/Bank-loan-Analysis-/main/bank%20server%202.png)
 
----
 
 
 
