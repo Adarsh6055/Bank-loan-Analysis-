@@ -78,7 +78,7 @@ This dashboard supports data-driven decision making for:
 
 ---
 
-## 📸 Dashboard Preview
+## 📸 Dashboard Preview   https://app.powerbi.com/view?r=eyJrIjoiZmMxZDMwNTUtOTQzNC00NTBmLThmY2ItNWI3YTQxNmU3ZTg2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 **Loan Report — Details View**  
 ![Loan Report Details](https://raw.githubusercontent.com/Adarsh6055/Bank-loan-Analysis-/main/bankserver%201.png)
