@@ -86,7 +86,7 @@ This dashboard supports data-driven decision making for:
 **Loan Report — Summary View**  
 ![Loan Report Summary](https://raw.githubusercontent.com/Adarsh6055/Bank-loan-Analysis-/main/bank%20server%202.png)
 
-
+Dashboard link  (https://app.powerbi.com/view?r=eyJrIjoiZmMxZDMwNTUtOTQzNC00NTBmLThmY2ItNWI3YTQxNmU3ZTg2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 **Built by Adarsh Kumar — transforming complex data into clear business insights, one dashboard at a time.**
