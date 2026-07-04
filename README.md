@@ -1,5 +1,5 @@
-# Bank-loan-Analysis-
-# 🏦 Bank Loan Portfolio Dashboard
+# Lending Intelligence -
+# 🏦 Lending Intelligence Dashboard
 
 A dynamic, interactive Power BI dashboard built to help banks and financial analysts monitor their loan portfolio health — with a clear view of total applications, good vs. bad loan split, funding performance, repayment status, and borrower risk patterns.
 
@@ -7,7 +7,7 @@ A dynamic, interactive Power BI dashboard built to help banks and financial anal
 
 ## 🎯 Purpose
 
-The Bank Loan Portfolio Dashboard was designed to turn raw loan data into clear, actionable insights for business stakeholders. It helps credit teams and decision-makers track key portfolio metrics, identify repayment trends, spot risk areas, and optimize overall loan management strategy.
+The Lending Intelligence Dashboard was designed to turn raw loan data into clear, actionable insights for business stakeholders. It helps credit teams and decision-makers track key portfolio metrics, identify repayment trends, spot risk areas, and optimize overall loan management strategy.
 
 ---
 
@@ -81,10 +81,10 @@ This dashboard supports data-driven decision making for:
 ## 📸 Dashboard Preview   https://app.powerbi.com/view?r=eyJrIjoiZmMxZDMwNTUtOTQzNC00NTBmLThmY2ItNWI3YTQxNmU3ZTg2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 **Loan Report — Details View**  
-![Loan Report Details](https://raw.githubusercontent.com/Adarsh6055/Bank-loan-Analysis-/main/bankserver%201.png)
+![Loan Report Details]()
 
 **Loan Report — Summary View**  
-![Loan Report Summary](https://raw.githubusercontent.com/Adarsh6055/Bank-loan-Analysis-/main/bank%20server%202.png)
+![Loan Report Summary]()
 
 
 
