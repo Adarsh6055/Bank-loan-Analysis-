@@ -84,7 +84,7 @@ This dashboard supports data-driven decision making for:
 ![Loan Report Details](https://github.com/Adarsh6055/Bank-loan-Analysis-/blob/main/Lending%20intelligence%201.png)
 
 **Loan Report — Summary View**  
-![Loan Report Summary]()
+![Loan Report Summary](https://github.com/Adarsh6055/Bank-loan-Analysis-/blob/main/Lending%20Intelligence%202.png)
 
 
 
